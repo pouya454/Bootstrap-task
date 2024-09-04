@@ -1,0 +1,48 @@
+.marg-l{
+    margin-left: 1000px;
+}
+
+
+
+.banner{
+    position: relative;
+    margin-left: 400px;
+}
+
+
+.baner-text{
+    position: absolute;
+    background-color: darkgrey;
+    border-radius: 5px;
+    margin-bottom: 300px;
+    margin: 70px 70px 70px 70px;
+    padding: 20px 20px 20px 20px ;
+}
+
+
+.text-Information{
+    margin-top: 100px;
+    background-color: darkgray;
+    text-align: center;
+    padding: 20px 100px 20px 100px ;
+    color:rgb(34, 134, 138) ;
+}
+
+
+.card-content{
+    margin: 50px 50px 50px 50px;
+}
+
+
+
+.card-body{
+    text-align: center;
+}
+
+.text-footer{
+    background-color: rgb(69, 134, 143);
+    text-align: center;
+    height: 200px;
+    padding:  30px 30px 30px 30px;
+    margin-bottom: 50px;
+}
